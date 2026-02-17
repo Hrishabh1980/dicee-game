@@ -41,3 +41,16 @@ The player with the higher number wins.
 
 If both numbers are equal → It’s a draw.
 
+
+🧠 Concepts Used
+
+DOM Manipulation
+
+Random Number Generation
+
+Event Listeners
+
+Conditional Logic
+
+Basic Game Design
+
