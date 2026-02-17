@@ -54,3 +54,15 @@ Conditional Logic
 
 Basic Game Design
 
+💡 Future Improvements
+
+Add sound effects 🎵
+
+Add animations for dice roll 🎞️
+
+Multiplayer online mode 🌐
+
+Score tracking system 📊
+
+Dark mode 🌙
+
