@@ -19,3 +19,13 @@ A fun and simple Dice Game built using HTML, CSS, and JavaScript. This project i
 📱 Responsive design (works on desktop & mobile)
 
 ⚡ Lightweight and fast (no frameworks used)
+
+
+🛠️ Tech Stack
+
+HTML – Structure of the game
+
+CSS – Styling and layout
+
+JavaScript – Game logic and interactivity
+
