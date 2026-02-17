@@ -29,3 +29,15 @@ CSS – Styling and layout
 
 JavaScript – Game logic and interactivity
 
+🎮 How to Play
+
+Open the game in your browser.
+
+Click the Roll Dice button (or refresh the page if auto-roll).
+
+Both players get a random dice value (1–6).
+
+The player with the higher number wins.
+
+If both numbers are equal → It’s a draw.
+
